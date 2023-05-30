@@ -1,0 +1,6 @@
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\bin\Debug\BookInfoRetriever.Core.dll
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\bin\Debug\BookInfoRetriever.Core.pdb
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\obj\Debug\BookInfoRetriever.Core.csproj.AssemblyReference.cache
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\obj\Debug\BookInfoRetriever.Core.csproj.CoreCompileInputs.cache
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\obj\Debug\BookInfoRetriever.Core.dll
+C:\Users\ismel\Source\repos\BookInfoRetriever\BookInfoRetriever.Core\obj\Debug\BookInfoRetriever.Core.pdb
